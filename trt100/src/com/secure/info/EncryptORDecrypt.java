@@ -34,6 +34,10 @@ public class EncryptORDecrypt {
 	    	return (char) ((char)source+2);
     }
 
+    public static char getNextcharThree(char source){
+		    	return (char) ((char)source+3);
+    }
+
 
     public static char getPreviouschar(char source){
     	return (char) ((char)source-1);
