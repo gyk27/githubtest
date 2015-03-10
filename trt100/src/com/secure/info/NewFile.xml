@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry>
+	<id>1</id>
+	<description>hdfc netbanking</description>
+	<url>http://www.hdfc.com</url>
+	<username>hdfc</username>
+	<password>hdfcpassword100</password>
+	<note></note>
+</entry>
+<entry>
+	<id>2</id>
+	<description>citi netbanking</description>
+	<url>http;//www.citi.com</url>
+	<username>citi</username>
+	<password>pwd**200</password>
+	<note></note>
+</entry>
